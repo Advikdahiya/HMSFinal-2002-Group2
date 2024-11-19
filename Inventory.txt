@@ -1,0 +1,15 @@
+Aspirin|100|NA|None
+Paracetamol|200|NA|None
+Ibuprofen|150|NA|None
+Cetirizine|10|NA|None
+Ranitidine|150|NA|None
+Amoxicillin|250|NA|None
+Dolo|995|NA|None
+Diclofenac|50|NA|None
+Metformin|500|NA|None
+Omeprazole|20|NA|None
+Lisinopril|10|NA|None
+Losartan|50|NA|None
+Gabapentin|300|NA|None
+Sertraline|50|NA|None
+Atorvastatin|40|NA|None

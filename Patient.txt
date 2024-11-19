@@ -1,0 +1,7 @@
+P100|SophiaBrown|1990-06-12|Female|555-56789012|sophiabrown@example.com|O-|Flu|Consultation|Pending
+P101|MichaelJohnson|1982-11-03|Male|555-67890123|michaeljohnson@example.com|A+|None|Surgery|Dispensed
+P102|OliviaWilson|1997-02-28|Female|555-78901234|oliviawilson@example.com|B-|None|Medication|Dispensed
+P103|EmilyTaylor|2000-09-05|Female|555-45678901|emilytaylor@example.com|AB+
+P104|JohnSmith|1988-04-12|Male|555-98765432|johnsmith@example.com|O+|Cold|Dolo|Pending
+P105|SophiaBrown|1995-11-23|Female|555-12345678|sophiabrown@example.com|A-|
+P106|Sam|None1|None2|111-11111111|None4|None5|Cough|Medication|Dispensed

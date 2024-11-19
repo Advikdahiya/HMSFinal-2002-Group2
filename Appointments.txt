@@ -1,0 +1,17 @@
+P106|2024-05-01|9:00am|Completed|Liam|Consult|Cough|Dolo|Dispensed|5|Needs to take some rest
+None|2024-05-01|10:00am|Available|Liam
+None|2024-05-01|11:00am|Available|None
+None|2024-05-01|12:00pm|Available|None
+None|2024-05-01|1:00pm|Available|None
+None|2024-05-01|2:00pm|Available|None
+None|2024-05-02|11:30am|Available|None
+None|2024-05-02|1:30pm|Available|None
+None|2024-05-02|2:30pm|Available|None
+None|2024-05-02|3:30pm|Available|None
+P100|2024-05-02|4:30pm|Upcoming|Ethan
+P101|2024-04-28|10:30am|Completed|Samantha|Consultation|Flu|Ibuprofen|Pending|3|Patient advised to stay hydrated
+P105|2024-05-03|4:00pm|Upcoming|Liam
+P103|2024-04-30|9:00am|Completed|Sophia|Surgery|Fracture|Paracetamol|Dispensed|5|Patient needs lots of rest
+
+
+

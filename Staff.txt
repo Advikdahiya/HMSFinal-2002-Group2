@@ -1,0 +1,8 @@
+D100|Liam|Doctor|Male|37
+D101|Ethan|Doctor|Male|57
+D102|Samantha|Doctor|Female|40
+D103|Sophia|Doctor|Female|58
+A100|Noah|Administrator|Male|60
+A101|Mia|Administrator|Female|55
+M100|Lucas|Pharmacist|Male|35
+N100|Shelly|Nurse|Female|54
