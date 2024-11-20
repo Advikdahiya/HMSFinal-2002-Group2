@@ -11,6 +11,8 @@ public class DoctorMenu implements Menu {
 
     public void chooseOption() throws IOException {
         int choice = 0;
+        System.out.print("Enter doctor name to confirm identity: ");
+        String doctor_name = sc.nextLine();
 
         do {
             System.out.println("\n--- Doctor Menu for Hospital Management System ---");
@@ -42,26 +44,18 @@ public class DoctorMenu implements Menu {
                             update.updatePatients();
                             break;
                         case 3:
-                            System.out.print("Enter the doctor which you want to view schedule of: ");
-                            String doctor_name = sc.nextLine();
                             ViewPersonalSchedule sched = new ViewPersonalSchedule(doctor_name);
                             sched.viewAppointments();
                             break;
                         case 4:
-                            System.out.print("Enter the name of doctor which you want to manage appointment requests: ");
-                            doctor_name = sc.nextLine();
                             AcceptDeclineAppointment appntment = new AcceptDeclineAppointment(doctor_name);
                             appntment.updateAppointments();
                             break;
                         case 5:
-                            System.out.print("Enter the name of doctor which you want to view upcoming appointments of: ");
-                            doctor_name = sc.nextLine();
                             ViewUpcomingAppointments upcoming = new ViewUpcomingAppointments(doctor_name);
                             upcoming.viewAppointments();
                             break;
                         case 6:
-                            System.out.print("Enter the name of doctor whose appointment outcome must be recorded: ");
-                            doctor_name = sc.nextLine();
                             RecordAppointmentOutcome rec = new RecordAppointmentOutcome(doctor_name);
                             rec.updateAppointments();
                             break;
